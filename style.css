@@ -68,10 +68,9 @@ Height: 414px;
 .collections{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-
-    
     
 }
+        
 .collection{
     padding-right: -500px;
     padding-left: 10px;
