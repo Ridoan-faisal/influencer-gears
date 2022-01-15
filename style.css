@@ -1,0 +1,178 @@
+body{
+    background-color: white;
+    font: poppins;
+}
+/* --------------menu part-------- */
+.menu-part{
+    margin-left: 130px;font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+/* --------------
+---------------start journey---------------- */
+.start-journey{
+    display: flex;
+   
+}
+.start-areas{
+    margin-left: 130px;
+    width: 50%;
+}
+.start-areas h1{
+margin-top: 143.8Px;
+font-Weight: 700px;
+Font-Size:52px;
+margin-bottom: -10px;
+
+}
+.start-areas p{
+  font-Weight: 600px;
+Font-Size: 16px;
+line-height: 24px;
+}
+.start-areas button{
+    width: 196px;
+    height: 44px;
+   left: 130px;
+   top: 509px;
+   border-radius: 41px;
+   background: #E02C6D;
+
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+    
+.start-areas img{
+    Width: 440px;
+Height: 414px;
+}
+/* ----------popular-collection------------ */
+
+
+
+.popular-collection{
+    height: 1700px;
+    margin-top: 150px;
+    margin-left: 210px;
+    margin-right: 184px;
+}
+.popular-collection h2{
+    margin-left: 470px;
+    margin-right: 290px;
+    font-weight: 600px;
+    font-size: 28px;
+}
+
+.collections{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+    
+    
+}
+.collection{
+    padding-right: -500px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-right: 100px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px 10px rgb(204, 195, 195);
+    border-radius: 3px;
+}
+field{
+    color: yellow;
+}
+
+.second-button{
+    text-align: right;
+    margin-right: 100px;
+}
+.see-more-anchor{
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    border-radius: 41px;
+   background: #E02C6D;
+   padding: 7px 50px;
+   text-align: right;
+
+
+}
+
+
+/* ---------------other area-----
+--------------------------------------- */
+
+.other-product-area{
+height: 600px;
+background-color: rgb(243, 242, 242);
+
+}
+.other-product-area h2{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+
+}
+.other-accessories{
+    display: flex;
+    justify-content: center;
+}
+
+.acessorie{
+    padding-top: 30px;
+    
+    padding-left: 30px;
+    margin-right: 40px;
+    width: 20%;
+    box-shadow: 5px 5px 15px 10px gainsboro ;
+
+}
+.acessorie img{
+    width: 300px;
+}
+.acessorie a{
+
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    border-radius: 41px;
+   background: #E02C6D;
+   padding: 7px 50px;
+}
+
+
+
+
+
+/*-----------------------footer area-------------------------
+------------------------ */
+footer{
+    background-color: rgba(10, 8, 38, 1);
+    color:white;
+    
+}
+.footer-area{
+    margin-top: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.social-icon img{
+    width: 17.7px;
+    height: 17.7px;
+
+}
+.social-icon{
+
+    margin-top: -65px;
+    padding-bottom: 50px;
+    text-align: center;
+}
